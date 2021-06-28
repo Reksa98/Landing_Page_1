@@ -419,7 +419,7 @@ span {
 
 @media screen and (max-width: 800px) {
     .mission-background > img {
-        height: 20vh;
+        height: 30vh;
     }
 }
 
@@ -444,7 +444,7 @@ span {
 
 @media screen and (max-width: 800px) {
     .mission-title {
-        height: 20vh;
+        height: 30vh;
     }
 
     .mission-title > h1 {
