@@ -430,10 +430,10 @@ span {
     color: var(--main-font);
     display: flex;
     flex-direction: column;
-    gap: 4vw;
     justify-content: flex-end;
     align-items: center;
     text-align: center;
+    padding-bottom: 4vw;
     z-index: 2;
 }
 
